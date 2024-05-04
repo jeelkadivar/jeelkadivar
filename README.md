@@ -23,7 +23,7 @@ Another project I've worked on is a Hostel Management System. This system simpli
 
 ## Technologies
 
-Here are the technologies I'm proficient in and frequently use in my projects:
+Here are the technologies that I frequently use in my projects:
 
 - Python
 - C++
